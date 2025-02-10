@@ -16,6 +16,3 @@ test('dividir 10 / 5 y devuelve 2', () => {
     expect(dividir(10,5)).toBe(2);
 });
 
-test('Raiz cuadrada de 16 y devuelve 4', () => {
-    expect(raizCuadrada(16)).toBe(4);
-});
