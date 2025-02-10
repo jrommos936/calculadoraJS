@@ -19,4 +19,4 @@ function dividir(a, b) {
 
   // Hacer las funciones accesibles en el navegador 
 
-module.exports(suma, resta, multiplicar, dividir);
+module.exports = {suma, resta, multiplicar, dividir};
